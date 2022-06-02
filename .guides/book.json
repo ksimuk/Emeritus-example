@@ -1,0 +1,81 @@
+{
+ "name": "emititus automation",
+ "children": [
+  {
+   "title": "Jupyter 1",
+   "id": "6d70db2a-2dd4-0c77-ff89-69b178fb57f6",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Page 1",
+     "id": "ab573efd-e537-8e9d-ae6b-c5602c0704fb",
+     "type": "page",
+     "pageId": "417ae955-0558-f2a7-8380-dde3fe905d27"
+    }
+   ]
+  },
+  {
+   "title": "Jupyter 2",
+   "id": "54acfd32-b6ea-1680-6d03-ffd974e31f40",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Page 1",
+     "id": "e9886122-ec1a-25ff-9148-f03659344531",
+     "type": "page",
+     "pageId": "e9886122-ec1a-25ff-9148-f03659344531"
+    }
+   ]
+  },
+  {
+   "title": "Assignment1",
+   "id": "777476a8-1ba7-0fb5-311f-1fd58843df15",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Page 2",
+     "id": "5f8f8852-45d2-1605-f06b-e4478f952c12",
+     "type": "page",
+     "pageId": "5f8f8852-45d2-1605-f06b-e4478f952c12"
+    },
+    {
+     "id": "cc36d1b1-c5d3-4042-2058-7817fbf60387",
+     "title": "page 3",
+     "pageId": "56c195f7-1316-d7ad-23d3-5e07bde95c9d",
+     "type": "page"
+    },
+    {
+     "id": "550c0335-b93e-10a4-b44d-42acada66707",
+     "title": "page 4",
+     "pageId": "53d481aa-403d-b627-faa6-2759ec92cbd9",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Assignment2",
+   "id": "07362136-b1cb-4fee-cc85-243fa222b995",
+   "type": "chapter",
+   "children": [
+    {
+     "id": "84b7d5e5-5725-5b01-3045-9d39b4e6bce0",
+     "title": "page 5",
+     "pageId": "6fc2a4ab-875b-70bf-fb97-41fbb2bd98ab",
+     "type": "page"
+    },
+    {
+     "id": "d92c262b-f5c5-cedf-9a2b-621c5509c669",
+     "title": "page 6",
+     "pageId": "885de750-77fe-ad00-16f2-019828c2ccfe",
+     "type": "page"
+    },
+    {
+     "id": "084e8a93-6719-eda0-bd8b-3b943aa6f2a6",
+     "title": "page 7",
+     "pageId": "7d56e136-6ad9-a80d-da62-c8f91d3f3018",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
